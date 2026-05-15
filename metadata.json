@@ -1,0 +1,6 @@
+{
+  "name": "ANIK~MAMA",
+  "description": "Your expert personal English base-building coach for IELTS. Integrated daily practice loops from absolute beginner level.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI-powered Assessment", "Daily Practice Loops", "Adaptive Learning", "Bangla Support"]
+}
